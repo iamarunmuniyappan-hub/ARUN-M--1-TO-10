@@ -6,4 +6,4 @@ CREATE TABLE Department (
     HOD VARCHAR(20)
 );
 
-DESC Department;
+DESC Department ;
